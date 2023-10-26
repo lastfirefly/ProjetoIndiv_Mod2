@@ -65,8 +65,8 @@ while True:
             print(f"   > Candidato {candidato['Candidato']} <")
             print("_____Avaliações_____")
             print(f"Entrevista: {candidato['Entrevista']}")
-            print(f"Teste Teorico: {candidato['Teste Teórico']}")
-            print(f"Teste Pratico: {candidato['Teste Prático']}")
+            print(f"Teste Teórico: {candidato['Teste Teorico']}")
+            print(f"Teste Prático: {candidato['Teste Pratico']}")
             print(f"Soft Skills: {candidato['Soft Skills']}")
             print("*" * 30)
 # Ou imprime uma mensagem informando que nenhum candidato atendeu aos critérios de busca
